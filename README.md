@@ -1,5 +1,5 @@
 # Boston-311
-Service Needs in Boston Neighborhoods
+Service Needs in Boston Neighborhoods Visualized
 
 I have outlined several metrics by which the city can identify the strengths and 
 weaknesses of its service delivery to the people of Boston. I have identified neighborhoods and their 
